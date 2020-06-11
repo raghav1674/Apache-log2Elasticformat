@@ -41,7 +41,17 @@
  
  
  
-  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/finally-converted.PNG"/>
+  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/elastic_head_webui.PNG"/>
+  
+  
+  
+                                                  ELASTICSEARCH HEAD CHROME PLUGIN
+                                                  
+                                                  
+  
+  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/elastic_head_webui.PNG"/>
+  
+                                                        SENSE CHROME PLUGIN
  
                                             
     
