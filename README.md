@@ -17,7 +17,7 @@
 >python2 main.py -f <log-file>
    
    
- <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/at-present-access-log.PNG"/>
+ <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/log-json-1.PNG"/>
     
  #### CONVERTING TO  JSON FORMAT
     
