@@ -28,7 +28,7 @@
  >python3 filter.py <json-converted-log-file>   <_type-name>  <output-file.json>
     
    
-   <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/at-present-access-log.PNG"/>
+   <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/finally-converted.PNG"/>
     
     
   #### CONVERTING TO  ELASTIC-SEARCH DOCUMENT FORMAT
