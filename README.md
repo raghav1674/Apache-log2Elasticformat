@@ -14,7 +14,7 @@
 ### APACHE-LOG 2 JSON
 
  
->python2 main.py -f <log-file>
+>python2 main.py -f <_log-file>
    
    
  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/log-json-1.PNG"/>
