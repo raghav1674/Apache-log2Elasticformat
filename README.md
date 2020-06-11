@@ -8,7 +8,7 @@
    
 
 
-####  HTTPD ACCESS_LOG FILE BEFORE CONVERSION TO JSON FORMAT
+                                        HTTPD ACCESS_LOG FILE BEFORE CONVERSION TO JSON FORMAT
     
     
 ### APACHE-LOG 2 JSON
@@ -19,7 +19,7 @@
    
  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/log-json-1.PNG"/>
     
- #### CONVERTING TO  JSON FORMAT
+                                                    CONVERTING TO  JSON FORMAT
     
 
 
@@ -31,5 +31,17 @@
    <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/finally-converted.PNG"/>
     
     
-  #### CONVERTING TO  ELASTIC-SEARCH DOCUMENT FORMAT
+                                            CONVERTING TO  ELASTIC-SEARCH DOCUMENT FORMAT
+                                            
+                                            
+                                            
+                                            
+ ####  QUERYING AND READING(GET) THROUGH SENSE AND  ELASTICSEARCH HEAD CHROME PLUGIN    
+ 
+ 
+ 
+ 
+  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/finally-converted.PNG"/>
+ 
+                                            
     
