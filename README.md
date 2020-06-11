@@ -38,6 +38,9 @@
                                             
                                             
  #### BULK WRITE(PUT) TO THE ELASTICSEARCH INDEX 
+ 
+ 
+ >curl -X PUT -H "Content-Type="apllication/json"  http://IP:9200/<INDEX>/_bulk  --data-binary  @<output-json-file(after running the above script)>
                                             
                                             
                                             
