@@ -41,7 +41,7 @@
                                             
                                             
                                             
-  <img src=" https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/successful-put.PNG " />                                    
+  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/curl-x-get.PNG"/>                                    
                                             
                                             
  ####  QUERYING AND READING(GET) THROUGH SENSE AND  ELASTICSEARCH HEAD CHROME PLUGIN    
