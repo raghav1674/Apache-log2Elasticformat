@@ -25,7 +25,7 @@
 
 ### JSON 2 ELASTIC-SEARCH DOCUMENT FORMAT
 
- > python3 filter.py       <json-converted-log-file>   <_type-name>  <output-file.json>
+ > python3 filter.py       <_json_converted_log_file>   <_type_name>  <output-file.json>
     
    
    <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/finally-converted.PNG"/>
