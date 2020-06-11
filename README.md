@@ -36,6 +36,14 @@
                                             
                                             
                                             
+                                            
+ #### BULK WRITE(PUT) TO THE ELASTICSEARCH INDEX 
+                                            
+                                            
+                                            
+    <img src  ="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/elastic_head_webui.PNG"/>                                    
+                                            
+                                            
  ####  QUERYING AND READING(GET) THROUGH SENSE AND  ELASTICSEARCH HEAD CHROME PLUGIN    
  
  
@@ -49,7 +57,7 @@
                                                   
                                                   
   
-  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/elastic_head_webui.PNG"/>
+  <img src="https://github.com/raghav1674/Apache-log2Elasticformat/blob/master/log-apache-task/sense-query-mozilla.PNG"/>
   
                                                         SENSE CHROME PLUGIN
  
